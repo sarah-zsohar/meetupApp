@@ -1,0 +1,16 @@
+{
+  "name": "meetupwebsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "pug":"latest",
+    "express": "~4.5.1",
+    "body-parser": "latest"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
